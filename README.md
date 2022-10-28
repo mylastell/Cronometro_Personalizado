@@ -1,2 +1,2 @@
-# Cronometro_Personalizado
+# CronometroPersonalizado
 Created with CodeSandbox
